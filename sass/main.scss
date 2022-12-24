@@ -1,20 +1,19 @@
 @import './utils/vars';
 
 @import './base/reset';
-
+@import './components/body';
 @import './components/container';
 @import './components/btn';
 @import './components/section';
 
-@import './header';
-@import './hero';
-@import './edge';
-@import './clients';
-@import './affairs';
-@import './team';
-@import './footer';
-
-@import './form';
-@import './modal-form';
-@import './projects';
+@import './layout/header';
+@import './layout/hero';
+@import './layout/edge';
+@import './layout/clients';
+@import './layout/affairs';
+@import './layout/team';
+@import './layout/footer';
+@import './layout/form';
+@import './layout/modal-form';
+@import './layout/projects';
 
